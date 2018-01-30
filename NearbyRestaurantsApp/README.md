@@ -9,4 +9,4 @@ App URL: https://andreibaic.github.io/NearbyRestaurantsApp/
 Author: 
 Baic Andrei `<baic.andrei@gmail.com>`
 
-MIT License
+MIT License 
